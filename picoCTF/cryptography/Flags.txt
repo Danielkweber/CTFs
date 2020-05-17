@@ -1,0 +1,4 @@
+The challenge gives us flags that give us info akin to the following PICOCTF{F*x-yx_+yT=FF}. In this string, all lowercase
+letters and symbols are placeholders for potential letters. I was very confused by this until I googled one of the flags and 
+found that they comprise the nautical flag code which has associated letters. The flag was PICOCTF{F1AGSANDSTUFF}.
+Lesson: If you have no idea what to do, google wildly.
